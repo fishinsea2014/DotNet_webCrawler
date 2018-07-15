@@ -1,2 +1,11 @@
 .vs/
 WebCrawler/obj/
+Service/obj/
+WebCrawler/bin/
+packages/
+CategoryService/obj/
+Framework/bin/
+Framework/obj/
+Interface/bin/
+Interface/obj/
+Service/bin/
